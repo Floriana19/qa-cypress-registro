@@ -1,0 +1,23 @@
+{
+  "name": "qa-cypress-registro",
+  "version": "1.0.0",
+  "description": "Automatizar el registro de login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floriana19/qa-cypress-registro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floriana19/qa-cypress-registro/issues"
+  },
+  "homepage": "https://github.com/Floriana19/qa-cypress-registro#readme",
+  "devDependencies": {
+    "cypress": "^15.1.0"
+  }
+}
